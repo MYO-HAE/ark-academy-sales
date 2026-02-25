@@ -49,7 +49,9 @@ This dashboard gives David a **single view of all school leads** with urgency in
 
 🌐 **https://ark-academy-sales-2026.pages.dev**
 
-✅ Deployed successfully via Cloudflare Pages
+✅ Deployed successfully via Cloudflare Pages (HTTP 200 verified)
+
+Preview URL: https://64e7999b.ark-academy-sales-2026.pages.dev
 
 ---
 
